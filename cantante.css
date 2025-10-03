@@ -1,0 +1,18 @@
+/*DOCUMENTO CSS*/
+
+.figura { min-height: 1px; width: 50%;}
+.figura img { width: 100%; height: auto;}
+
+.audio { min-height: 1px; 
+    background-color: rgb(255, 16, 16); 
+    text-align: center; 
+    padding: 40px 0px ;}
+
+h1 { background-color: rgb(0, 184, 0); 
+     color: black; 
+     text-align: center; 
+     padding: 16px 0px;
+     font-family:}
+
+body {background-color: pink;
+      }

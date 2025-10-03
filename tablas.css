@@ -1,0 +1,15 @@
+/*DOCUMENTO CSS*/
+* {margin: 0px;
+    padding: 0px;}
+
+body {background-color: rgb(212, 165, 255);}
+
+h1 {background-color: aquamarine;
+    padding: 16px 0px;
+    text-align: center;
+    color: rgb(62, 59, 59);}
+
+.tablas { width: 50%;
+          margin: 24px auto 24px auto; 
+            background-color: rgb(175, 248, 224);
+        text-align: center; }
